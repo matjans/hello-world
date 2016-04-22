@@ -1,2 +1,2 @@
 # hello-world
-First encounter
+Going through the getting started tutorial
